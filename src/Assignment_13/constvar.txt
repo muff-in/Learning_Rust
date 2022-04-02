@@ -1,0 +1,19 @@
+There are many differences between const and let variables.
+
+* Declaration
+- Constant variables are declared using the const keyword unlike let variables.
+
+* Scope
+- const variables are declared in global and local scope unlike let variables that are declared only in the local scope.
+
+* Mutability
+- const variable cannot be mutable unlike let which can be made mutable using mut keyword.
+
+* Data Type
+- Unlike let variables, it is mandatory to define the data type of const variables.
+
+* Set Value at Run-time
+- The value of const variable can only be set before running the program whereas the let variable can store the result at runtime.
+
+* Shadowing
+- Unlike let variables, const variables cannot be shadowed.

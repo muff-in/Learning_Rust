@@ -1,0 +1,21 @@
+* Primitive Types
+- Rust has a couple of types that are considered primitive. 
+- That means they are built-in to the language. There are different data types used for different purposes.
+
+* Scalar Type
+- They store a single value.
+
+Below is the list of scalar types:
+
+> Integers
+> Floats
+> Boolean
+> Character
+
+* Compound Type
+- They group multiple values in one variable. 
+
+Below is the list of compound types:
+
+> Array
+> Tuple
