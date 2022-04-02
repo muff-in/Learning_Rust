@@ -1,4 +1,4 @@
-// You will use double slash to comment out a line of code.
+// You can use double slash to comment out a line of code.
 // This is the most recommended style of comment for commenting a single line.
 
 /// This is an outer doc comment
